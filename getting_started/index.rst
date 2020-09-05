@@ -4,7 +4,7 @@
 Getting Started
 ***************
 
-Fundamental information for scripters and modders to start our creating servers and mods for nanos world.
+Fundamental information for scripters and modders to start our creating servers and mods for Nanos world.
 
 .. toctree::
    :hidden:
@@ -62,14 +62,14 @@ Programming
 			"../scripting/classes/index.html",
 			"https://vectorsart.com/vectors-images/vectorsart_18001.jpg",
 			"Classes",
-			"Information of all spawnable objects/entities of nanos world."
+			"Information of all spawnable objects/entities of Nanos world."
 		);
 
 		DrawCard(
 			"../scripting/static_classes/index.html",
 			"https://vectorsart.com/vectors-images/vectorsart_18001.jpg",
 			"Static Classes",
-			"Information of all Global/Static Classes of nanos world."
+			"Information of all Global/Static Classes of Nanos world."
 		);
 
 		DrawCard(
@@ -98,21 +98,21 @@ Modding
 			"../modding/index.html",
 			"https://uploads.jovemnerd.com.br/wp-content/uploads/2019/03/thomas-re2-1210x540.png",
 			"Modding Overview",
-			"Learn how modding in possible in nanos world."
+			"Learn how modding in possible in Nanos world."
 		);
 
 		DrawCard(
 			"../modding/MapsAndLevels.html",
 			"https://docs.unrealengine.com/Images/Engine/Rendering/VirtualTexturing/Runtime/QuickStart/5_0_RVTActors_1.jpg",
 			"Creating Maps",
-			"Learn how to create maps from scratch and import them in nanos world."
+			"Learn how to create maps from scratch and import them in Nanos world."
 		);
 
 		DrawCard(
 			"../modding/StaticMeshes.html",
 			"https://cdn.lynda.com/course/681091/681091-637286238509169718-16x9.jpg",
 			"Creating custom Static Meshes",
-			"Learn how to import and use custom Static Meshes in nanos world."
+			"Learn how to import and use custom Static Meshes in Nanos world."
 		);
 
 		DrawCard(
